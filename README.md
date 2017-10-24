@@ -1,5 +1,5 @@
 # Glowland
-Glowland is a game made in Unity3D for multiple platforms, available on Android, the Web and MS Windows. 
+Glowland is a game made in Unity3D for multiple platforms, available on Android, the Web and MS Windows. I started it on the 8th of March 2014 and made the last change to the code on the 7th of May 2014.
 
 ![Alt text](./pictures/icon.png?raw=true "Icon") 
 
